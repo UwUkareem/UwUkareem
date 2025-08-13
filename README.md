@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Profile README for Kareem Abdulaziz -->
 
-<!--
-**UwUkareem/UwUkareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌌 Kareem Abdulaziz 🌌</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 UI/UX Design
+- 📐 Figma wireframing & prototyping
+- 🎯 Accessible, responsive, and engaging designs
+- 🎨 Strong visual hierarchy & typography skills
+
+### ⚛️ Front-End Development
+- 🚀 React (hooks, context, state management)
+- 🛠️ Modern JavaScript (ES6+), reusable components
+- 📱 Mobile-first & responsive layouts
+
+### ⌨️ Competitive Programming
+- 🏅 3+ years solving algorithmic challenges
+- 💡 Expertise in **Graph Theory**, **Dynamic Programming**, **Data Structures**
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/UwUkareem"><img src="https://img.shields.io/badge/GitHub-UwUkareem-ff71ce?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/kareem-abdel-aziz-42ab5528b/"><img src="https://img.shields.io/badge/LinkedIn-KareemA-01cdfe?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:karemm420@gmail.com"><img src="https://img.shields.io/badge/Email-karemm420@gmail.com-05ffa1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
