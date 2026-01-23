@@ -1,21 +1,13 @@
 <!-- Profile README for Kareem Abdulaziz -->
 
-<h1 align="center">🌌 Kareem Abdulaziz 🌌</h1>
+<h1 align="center"> Kareem Abdulaziz </h1>
 
 
-### 🎨 UI/UX Design
-- 📐 Figma wireframing & prototyping
-- 🎯 Accessible, responsive, and engaging designs
-- 🎨 Strong visual hierarchy & typography skills
+### UI/UX Design
 
-### ⚛️ Front-End Development
-- 🚀 React (hooks, context, state management)
-- 🛠️ Modern JavaScript (ES6+), reusable components
-- 📱 Mobile-first & responsive layouts
+### Front-End Development
 
-### ⌨️ Competitive Programming
-- 🏅 3+ years solving algorithmic challenges
-- 💡 Expertise in **Graph Theory**, **Dynamic Programming**, **Data Structures**
+### Competitive Programming
 
 ---
 
